@@ -1,0 +1,4 @@
+LANG c#
+FILE src/Stuff.cs
+OUT gmsv_stuff_win32.dll
+COPY D:/GAMES/Steam/SteamApps/common/GarrysMod/garrysmod/lua/bin/
